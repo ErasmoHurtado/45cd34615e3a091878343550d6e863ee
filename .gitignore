@@ -1,0 +1,9 @@
+# Directorios generados por Python
+__pycache__/
+venv/
+
+# Otros archivos comunes a ignorar en proyectos Python
+# *.pyc
+# .env
+# .pytest_cache/
+# ...
